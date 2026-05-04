@@ -1,2 +1,2 @@
-# homebred-vmixer
+# homebrew-vmixer
 Homebrew access for Vmixer
