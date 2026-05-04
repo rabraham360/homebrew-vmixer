@@ -11,6 +11,6 @@ cask "vmixer" do
   app "VMixer.app"
   
   zap trash: [
-    "~/Library/Preferences/com.yourname.VMixer.plist",
+    "~/Library/Preferences/com.rabraham360.VMixer.plist",
   ]
 end
