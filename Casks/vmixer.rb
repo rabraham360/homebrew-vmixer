@@ -1,6 +1,6 @@
 cask "vmixer" do
   version "1.1.0"
-  sha256 "4350ab0b23ca24fb38dc5bf42e0d01f0d6febdbd105c5d19e9ace632c0b69370"
+  sha256 "0c5342faa01e0078454b8429d087d2ac0c7d30ca410f14d7fe13ff89597dccbb"
 
   url "https://github.com/rabraham360/vmixer/releases/download/v1.1.0/VMixer.zip"
   
