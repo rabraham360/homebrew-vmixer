@@ -18,4 +18,5 @@ cask "vmixer" do
     system_command "xattr",
                    args: ["-rd", "com.apple.quarantine", "#{appdir}/VMixer.app"],
                    sudo: true
+  end
 end
