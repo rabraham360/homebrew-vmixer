@@ -1,6 +1,6 @@
 cask "vmixer" do
-  version "1.1.0"
-  sha256 "dca2eaf98c4c99b83f46f40f32c6a0d35f462992525d18d3cd22044a07b1dbb2" # Run 'shasum -a 256' on your new zip!
+  version "1.2.0"
+  sha256 "6ecdc053f46c860c30fbe10a2612ff1560c3c299d2fb8a1d6fa59f7845d9f6c8" # Run 'shasum -a 256' on your new zip!
 
   url "https://github.com/rabraham360/vmixer/releases/download/v#{version}/VMixer.zip"
   
